@@ -5,6 +5,41 @@
 
 }
 
+.status-box{
+  background-color: rgb(238, 238, 238);
+  justify-content: flex-start;
+  width: 1000px;
+  margin: 0 auto 0 auto;
+}
+
+.ticketText{
+  padding-right: 190px;
+}
+
+.buttonAlign{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 50px;
+
+}
+
+.alignDistance{
+  display: flex;
+  gap: 450px;
+  align-items: last baseline;
+}
+
+.chatButton{
+  width: 160px;
+  height: 35px;
+  background-color: #111686;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 3%;
+}
+
 .react-icon{
   width: 75px;
 }
