@@ -1,5 +1,5 @@
-import './App.css';
-import ellipse from './Ellipse.png'
+import '../../App.css';
+import ellipse from '../../assets/Ellipse.png'
 
 function Ellipse(){
     return(

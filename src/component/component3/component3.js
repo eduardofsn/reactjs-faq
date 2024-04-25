@@ -1,5 +1,5 @@
-import './App.css';
-import trolley from './trolley.png'
+import '../../App.css';
+import trolley from '../../assets/trolley.png'
 
 
 function Component3(){

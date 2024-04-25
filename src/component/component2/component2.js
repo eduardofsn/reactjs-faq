@@ -1,5 +1,5 @@
-import './App.css';
-import delivery from './deli.png'
+import '../../App.css';
+import delivery from '../../assets/deli.png'
 
 
 function Component2(){

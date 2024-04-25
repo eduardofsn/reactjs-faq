@@ -1,5 +1,5 @@
-import './App.css';
-import circle from './circle.png'
+import '../../App.css';
+import circle from '../../assets/circle.png'
 
 
 function Textostatus(){

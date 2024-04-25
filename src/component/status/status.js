@@ -1,5 +1,5 @@
-import './App.css';
-import orange from './rectangle.png'
+import '../../App.css';
+import orange from '../../assets/rectangle.png'
 
 function Status(){
     return(

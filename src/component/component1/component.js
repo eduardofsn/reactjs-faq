@@ -1,5 +1,5 @@
-import './App.css';
-import map from './map.png'
+import '../../App.css';
+import map from '../../assets/map.png'
 
 
 function Component(){

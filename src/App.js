@@ -1,11 +1,11 @@
 import './App.css';
-import Component from './component';
-import Component2 from './component2';
-import Component3 from './component3';
-import Status from './status';
-import Textostatus from './textostatus';
-import Ellipse from './ellipse';
-import Support from './suportbutton';
+import Component from './component/component1/component';
+import Component2 from './component/component2/component2';
+import Component3 from './component/component3/component3';
+import Status from './component/status/status';
+import Textostatus from './component/textostatus/textostatus';
+import Ellipse from './component/ellipse/ellipse';
+import Support from './component/supportbutton/suportbutton';
 
 function App() {
   return (
