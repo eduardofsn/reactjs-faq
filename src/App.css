@@ -5,6 +5,47 @@
 
 }
 
+.status{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.flex-baseText{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+  margin-right: 720px;
+}
+
+.supportButton{
+  width: 320px;
+  height: 60px;
+  font-size: 16px;
+  background-color: #111686;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 3%;
+
+}
+
+
+.statusMain{
+  font-weight: normal;
+}
+
+.carrousel-control{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.blueText{
+  color: #00046D;
+}
+
 .status-box{
   background-color: rgb(238, 238, 238);
   justify-content: flex-start;
