@@ -1,3 +1,4 @@
+import React from 'react';
 import '../../App.css';
 import ellipse from '../../assets/Ellipse.png'
 

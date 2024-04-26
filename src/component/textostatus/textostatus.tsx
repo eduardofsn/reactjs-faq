@@ -1,3 +1,4 @@
+import React from 'react';
 import '../../App.css';
 import circle from '../../assets/circle.png'
 

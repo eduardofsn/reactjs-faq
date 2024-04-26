@@ -6,6 +6,7 @@ import Status from './component/status/status';
 import Textostatus from './component/textostatus/textostatus';
 import Ellipse from './component/ellipse/ellipse';
 import Support from './component/supportbutton/suportbutton';
+import React from 'react';
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
         <Status/>
     </div>
     <div>
-      <p className='blueText'>Ver todos os meus tickets abertos -></p>
+      <p className='blueText'>Ver todos os meus tickets abertos</p>
     </div>
     <br/>
         <h1 className='title'>Perguntas Frequentes</h1>
